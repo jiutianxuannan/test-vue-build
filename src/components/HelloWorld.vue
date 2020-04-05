@@ -3,6 +3,7 @@
     <h1>{{ msg }}</h1>
     <div>我是一个傻逼</div>
     <div>我是一个二傻逼</div>
+    <div>我是一个三傻逼</div>
   </div>
 </template>
 
